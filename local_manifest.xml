@@ -9,8 +9,10 @@
 
   <!-- Projects by devhunter1 -->
   <project path="device/samsung/a14x" name="android_device_samsung_a14x" remote="devhunter1" revision="lineage-23.2" />
+  <project path="device/samsung/m14x" name="android_device_samsung_m14x" remote="devhunter1" revision="lineage-23.2" />
   <project path="device/samsung/s5e8535-common" name="android_device_samsung_s5e8535-common" remote="devhunter1" revision="IMS" />
   <project path="vendor/samsung/a14x" name="android_vendor_samsung_a14x" remote="devhunter1" revision="lineage-23.2" />
+  <project path="vendor/samsung/m14x" name="android_vendor_samsung_m14x" remote="devhunter1" revision="lineage-23.2" />
   <project path="vendor/samsung/s5e8535-common" name="android_vendor_samsung_s5e8535-common" remote="devhunter1" revision="lineage-23.2" />
   <project path="kernel/samsung/s5e8535" name="android_kernel_samsung_s5e8535" remote="devhunter1" revision="lineage-23.2" />
 
